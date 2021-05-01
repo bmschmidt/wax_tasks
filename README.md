@@ -105,7 +105,7 @@ collections:
     metadata:
       source: 'objects.csv' # path to the metadata file, must be within '_data'
     images:
-      source 'source_images/objects' # path to the directory of source images, must be within '_data'
+      source: 'source_images/objects' # path to the directory of source images, must be within '_data'
 
 # wax search index settings
 lunr_index:
